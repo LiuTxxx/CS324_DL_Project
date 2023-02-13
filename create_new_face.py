@@ -77,4 +77,5 @@ def main(video_path=None):
 
 
 if __name__ == '__main__':
-    main('resources/videos/test_video.MOV')
+    # main('resources/videos/test_video.MOV')
+    main('resources/videos/test.mp4')
