@@ -1,6 +1,6 @@
 # Face Recognition Project
 
-[test.png](https://github.com/WubbaLu-bba/CS324_DL_Project/blob/main/test.png)
+![image-20230213213714084](https://github.com/WubbaLu-bba/CS324_DL_Project/blob/main/test.png)
 
 ### How to run
 
